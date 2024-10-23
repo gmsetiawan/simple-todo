@@ -1,6 +1,20 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## Getting Started Use
+
+<ol>
+<li>React Hook Form</li>
+<li>TanStack Query</li>
+<li>Zod</li>
+<li>Shadcn</li>
+</ol>
+
+TanStack (formerly React Query) is a set of modern libraries designed to handle data fetching, caching, and synchronization in web applications. It is known for simplifying data management, especially for API requests. Here’s a beginner-friendly guide on using TanStack Query (TanStack Query is most commonly used, and it’s the heart of TanStack):
+
+Why use TanStack Query?
+Easy Data Fetching: It simplifies API requests with automatic caching, background updates, and re-fetching of stale data.
+Optimistic Updates: Helps show instant results for user actions (like updating UI before server confirmation).
+State Management: Reduces the need for complex state management for server data.
 
 First, run the development server:
 
